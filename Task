@@ -1,6 +1,8 @@
 Scrape the information of the recently concluded Lok Sabha election from https://results.eci.gov.in 
 Build a report of 10 key insight that you can derive from the data, and submit that in the repository.
 Here is the detailed information i have studeid from the webiste that is mentioned above
+From the Data: 
+
 First insight: As Returning Officers enter data into the system at their Counting Centers, the information is updated in real time.
 
 Secondly, the results for each Assembly Constituency (AC) and Parliamentary Constituency (PC) are easily accessible due to the data's categorization by constituency.
