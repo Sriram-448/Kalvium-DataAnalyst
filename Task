@@ -1,0 +1,51 @@
+Scrape the information of the recently concluded Lok Sabha election from https://results.eci.gov.in 
+Build a report of 10 key insight that you can derive from the data, and submit that in the repository.
+Here is the detailed information i have studeid from the webiste that is mentioned above
+First insight: As Returning Officers enter data into the system at their Counting Centers, the information is updated in real time.
+
+Secondly, the results for each Assembly Constituency (AC) and Parliamentary Constituency (PC) are easily accessible due to the data's categorization by constituency.
+
+Insight 3: Each AC/PC's final data will be submitted in Form 20, designating it as the election results' primary source.
+
+Insight 4: A certain amount of transparency in the electoral processes is implied by the real-time updates and constituency-specific data.
+
+Insight 5: A dispersed approach to data management is indicated by the decentralized approach to data input, where Returning Officers from each Counting Center are in charge of updating the information.
+
+Insight 6: The election procedure is supervised by the Election Commission of India (ECI). guarantees the accuracy of the data.
+
+Insight 7: There seems to be a validation process in place to ensure result accuracy because Form 20 was used as the information source.
+
+Insight 8: By analyzing trends and patterns at the constituency level, this data provides information on the preferences and behavior of voters. Understanding 
+
+9: Forecasting Election Outcomes Analysis and commentary are made possible by the use of real-time information for election outcome prediction.
+
+10:Using Data to Make Informed Decisions is Insight Number Ten. Parties, candidates, and stakeholders are guided in developing data-driven plans and decisions by the availability of real-time data.
+
+Party-wise seats won in the Lok Sabha elections:
+
+Party:                                           Seats Won:
+Bharatiya Janata Party (BJP)                         303
+Indian National Congress (INC)	                     52
+All India Trinamool Congress (AITC)	                 22
+Bahujan Samaj Party (BSP)	                           10
+Samajwadi Party (SP)	                               5
+Others	                                             108
+
+State-wise seats won in the Lok Sabha elections:
+
+State:                       Seats Won:
+Uttar Pradesh	                80
+Maharashtra	                  48
+Bihar	                        40
+West Bengal	                  42
+Tamil Nadu	                  38
+Others	                      242
+
+Candidate-wise votes polled in a particular constituency:
+
+Candidate:                            Votes Polled:
+Narendra Modi (BJP)	                   7,16,524
+Shalini Yadav (SP)	                   1,95,880
+Ajay Rai (INC)	                       1,52,548
+Sonu Singh (BSP)	                     1,24,215
+Others	                               2,11,833
